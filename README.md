@@ -110,7 +110,7 @@ export default SomeComponent;
 
 ## Check the original code using React classes below:
 
-## https://github.com/glepur/react-native-swipe-gestures
+### https://github.com/glepur/react-native-swipe-gestures
 
 ```javascript
 import React, { Component } from "react";
