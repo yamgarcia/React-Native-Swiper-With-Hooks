@@ -98,13 +98,13 @@ export default SomeComponent;
 
 1. Swiper only works on the text
 
-- Try to make it able to recognize a swipe anywhere in the screen;
-- Try to focus the swipable area on specific areas (E.g. Images);
+  - Try to make it able to recognize a swipe anywhere in the screen;
+  - Try to focus the swipable area on specific areas (E.g. Images);
 
 2. Some times the swiper won't work and there will be no gesture name
 
-- When the bug is (apparently randomly) triggered a message will be rendered;
-- The bug happens to swipes in any direction;
+  - When the bug is (apparently randomly) triggered a message will be rendered;
+  - The bug happens to swipes in any direction;
 
 # Original React class component
 
